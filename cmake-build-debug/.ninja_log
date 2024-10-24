@@ -1,0 +1,21 @@
+# ninja log v6
+734	19465	7514366168726272	CMakeFiles/CppDeveloper.dir/main.cpp.obj	1f99c03e0ec08176
+10	610	7514942387578054	build.ninja	a6feb5105b98f65a
+2449	2828	7514929107238887	estructura_switch.exe	7f3755633a7109d9
+28	1661	7514916679064993	CMakeFiles/CppDeveloper.dir/01_fundamentos/01_estructura_control/condicionales/condicional_si.cpp.obj	2f099298a619881e
+2013	2256	7514923909806064	condicional_si.exe	af2a94f5bd0c0a4b
+41	2011	7514923890106197	CMakeFiles/condicional_si.dir/01_fundamentos/01_estructura_control/condicionales/condicional_si.cpp.obj	670a60c75c3d7e27
+7	1551	7514925873140914	CMakeFiles/condicional.dir/01_fundamentos/01_estructura_control/decision/condicional.cpp.obj	6240cda52b237622
+15	507	7514928777346456	condicional.exe	8eaeee1584a24b75
+23	1375	7514932798867490	CMakeFiles/para.dir/01_fundamentos/01_estructura_control/repetitivas/para.cpp.obj	b45eabcdf5d8da48
+19	1773	7514928628328612	CMakeFiles/condicional.dir/01_fundamentos/01_estructura_control/decision/estructura_switch.cpp.obj	551b5d27c20194f8
+10	2447	7514929082848871	CMakeFiles/estructura_switch.dir/01_fundamentos/01_estructura_control/decision/estructura_switch.cpp.obj	22098fe505887867
+1376	1602	7514932812397535	para.exe	afd3e151252e5506
+33	2073	7514937729995054	CMakeFiles/mientras.dir/01_fundamentos/01_estructura_control/repetitivas/mientras.cpp.obj	e25dc1a4fcbe3a48
+2075	2333	7514937750415053	mientras.exe	c297a103fa13d36d
+7	2925	7514942424515824	CMakeFiles/hacer_mientras.dir/01_fundamentos/01_estructura_control/repetitivas/hacer_mientras.cpp.obj	46a23555faca9f24
+2927	3310	7514942453716872	hacer_mientras.exe	563e55a4789345ef
+21	1709	7514942683540591	CMakeFiles/hacer_mientras.dir/01_fundamentos/01_estructura_control/repetitivas/hacer_mientras.cpp.obj	46a23555faca9f24
+1756	2097	7514942700890599	hacer_mientras.exe	563e55a4789345ef
+34	2121	7514944214510443	CMakeFiles/hacer_mientras.dir/01_fundamentos/01_estructura_control/repetitivas/hacer_mientras.cpp.obj	46a23555faca9f24
+2122	2356	7514944235390423	hacer_mientras.exe	563e55a4789345ef

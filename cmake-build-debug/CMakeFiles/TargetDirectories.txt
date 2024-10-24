@@ -1,0 +1,8 @@
+C:/Users/Eleudoro/Desktop/CppDeveloper/cmake-build-debug/CMakeFiles/main.dir
+C:/Users/Eleudoro/Desktop/CppDeveloper/cmake-build-debug/CMakeFiles/condicional.dir
+C:/Users/Eleudoro/Desktop/CppDeveloper/cmake-build-debug/CMakeFiles/estructura_switch.dir
+C:/Users/Eleudoro/Desktop/CppDeveloper/cmake-build-debug/CMakeFiles/para.dir
+C:/Users/Eleudoro/Desktop/CppDeveloper/cmake-build-debug/CMakeFiles/mientras.dir
+C:/Users/Eleudoro/Desktop/CppDeveloper/cmake-build-debug/CMakeFiles/hacer_mientras.dir
+C:/Users/Eleudoro/Desktop/CppDeveloper/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Eleudoro/Desktop/CppDeveloper/cmake-build-debug/CMakeFiles/rebuild_cache.dir
